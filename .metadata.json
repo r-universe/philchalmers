@@ -1,0 +1,26 @@
+[
+  {
+    "package": "faoutlier",
+    "oncran": true
+  },
+  {
+    "package": "mirt",
+    "oncran": true
+  },
+  {
+    "package": "mirtCAT",
+    "oncran": true
+  },
+  {
+    "package": "OLScurve",
+    "oncran": true
+  },
+  {
+    "package": "plotSEMM",
+    "oncran": true
+  },
+  {
+    "package": "SimDesign",
+    "oncran": true
+  }
+]

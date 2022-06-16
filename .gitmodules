@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "faoutlier"]
+	path = faoutlier
+	url = https://github.com/philchalmers/faoutlier
+	shallow = true
+	registered = true
+[submodule "mirt"]
+	path = mirt
+	url = https://github.com/philchalmers/mirt
+	shallow = true
+	registered = true
+[submodule "mirtCAT"]
+	path = mirtCAT
+	url = https://github.com/philchalmers/mirtcat
+	shallow = true
+	registered = true
+[submodule "OLScurve"]
+	path = OLScurve
+	url = https://github.com/philchalmers/olscurve
+	shallow = true
+	registered = true
+[submodule "plotSEMM"]
+	path = plotSEMM
+	url = https://github.com/philchalmers/plotsemm
+	shallow = true
+	registered = true
+[submodule "SimDesign"]
+	path = SimDesign
+	url = https://github.com/philchalmers/simdesign
+	shallow = true
+	registered = true
