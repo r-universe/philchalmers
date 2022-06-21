@@ -18,11 +18,6 @@
 	url = https://github.com/philchalmers/mirtcat
 	shallow = true
 	registered = true
-[submodule "OLScurve"]
-	path = OLScurve
-	url = https://github.com/philchalmers/olscurve
-	shallow = true
-	registered = true
 [submodule "plotSEMM"]
 	path = plotSEMM
 	url = https://github.com/philchalmers/plotsemm

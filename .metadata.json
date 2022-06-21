@@ -12,9 +12,6 @@
     "oncran": true
   },
   {
-    "package": "OLScurve"
-  },
-  {
     "package": "plotSEMM",
     "oncran": true
   },
