@@ -8,6 +8,16 @@
 	url = https://github.com/philchalmers/faoutlier
 	shallow = true
 	registered = true
+[submodule "mirt"]
+	path = mirt
+	url = https://github.com/philchalmers/mirt
+	shallow = true
+	registered = true
+[submodule "mirtCAT"]
+	path = mirtCAT
+	url = https://github.com/philchalmers/mirtcat
+	shallow = true
+	registered = true
 [submodule "plotSEMM"]
 	path = plotSEMM
 	url = https://github.com/philchalmers/plotsemm
