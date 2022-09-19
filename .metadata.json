@@ -4,14 +4,6 @@
     "oncran": true
   },
   {
-    "package": "mirt",
-    "oncran": true
-  },
-  {
-    "package": "mirtCAT",
-    "oncran": true
-  },
-  {
     "package": "plotSEMM",
     "oncran": true
   },
