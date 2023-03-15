@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SimDesign"]
-	path = SimDesign
-	url = https://github.com/philchalmers/simdesign
-	shallow = true
-	registered = true
 [submodule "faoutlier"]
 	path = faoutlier
 	url = https://github.com/philchalmers/faoutlier
@@ -26,5 +21,10 @@
 [submodule "plotSEMM"]
 	path = plotSEMM
 	url = https://github.com/philchalmers/plotsemm
+	shallow = true
+	registered = true
+[submodule "SimDesign"]
+	path = SimDesign
+	url = https://github.com/philchalmers/simdesign
 	shallow = true
 	registered = true
