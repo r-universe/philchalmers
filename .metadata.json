@@ -1,5 +1,9 @@
 [
   {
+    "package": "SimDesign",
+    "oncran": true
+  },
+  {
     "package": "faoutlier",
     "oncran": true
   },
@@ -13,10 +17,6 @@
   },
   {
     "package": "plotSEMM",
-    "oncran": true
-  },
-  {
-    "package": "SimDesign",
     "oncran": true
   }
 ]
