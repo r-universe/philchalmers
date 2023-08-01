@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SimDesign"]
+	path = SimDesign
+	url = https://github.com/philchalmers/simdesign
 [submodule "faoutlier"]
 	path = faoutlier
 	url = https://github.com/philchalmers/faoutlier
@@ -14,6 +17,3 @@
 [submodule "plotSEMM"]
 	path = plotSEMM
 	url = https://github.com/philchalmers/plotsemm
-[submodule "SimDesign"]
-	path = SimDesign
-	url = https://github.com/philchalmers/simdesign
