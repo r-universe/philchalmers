@@ -5,6 +5,9 @@
 [submodule "SimDesign"]
 	path = SimDesign
 	url = https://github.com/philchalmers/simdesign
+[submodule "Spower"]
+	path = Spower
+	url = https://github.com/philchalmers/spower
 [submodule "faoutlier"]
 	path = faoutlier
 	url = https://github.com/philchalmers/faoutlier
